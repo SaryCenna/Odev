@@ -1,2 +1,2 @@
-# Odev
-patika.dev ödevleri
+# Ödevler
+yapılan ödevlerin reposu
