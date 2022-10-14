@@ -1,0 +1,2 @@
+# Odev
+patika.dev ödevleri
