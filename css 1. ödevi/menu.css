@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(188, 188, 188);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-size: 1764px;
+   
+}
+
+.navbar{
+    height: 8vh;
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+    opacity:0.6;
+    filter:alpha(opacity=60);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    color: azure;
+    transition: 0.8s;
+
+}
+
+h1{
+    cursor: pointer;
+    transition: 0.8s;
+
+}
+
+a:hover{
+    color: rgb(0, 183, 177);
+}
+
+h1:hover{
+    color: rgb(0, 169, 187);
+}
+
+li{
+    
+    text-decoration: double;
+}
